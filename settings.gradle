@@ -1,4 +1,0 @@
-rootProject.name = 'KafkaRealWorld'
-include 'Kafka-Producer-Wikimedia'
-include 'Kafka-Producer-Wikimedia'
-
