@@ -1,0 +1,4 @@
+rootProject.name = 'KafkaRealWorld'
+include 'Kafka-Producer-Wikimedia'
+include 'kafka-Consumer-wikimedia'
+
